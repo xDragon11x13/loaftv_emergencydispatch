@@ -1,4 +1,4 @@
-# LOAF_TV AND EMERGENCYDISPATCH INTIGRATION
+# LOAF_TV AND EMERGENCYDISPATCH INTEGRATION
 
 DE: Das ist eine Erklärung wie man EmergencyDispatch mit Loaf_tv verknüpft um den Alarmmonitor benutzen zu können.\
 EN: This is an explanation of how to link EmergencyDispatch with Loaf_tv to use the alarm monitor.
